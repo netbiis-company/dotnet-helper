@@ -1,6 +1,6 @@
-﻿# Contributing to ocura/dotnet-helper
+﻿# Contributing to Netbiis - Interep Report v3
 
-♥ [ocura/dotnet-helper](/) and want to get involved?
+♥ [Netbiis](/) and want to get involved?
 Thanks! There are plenty of ways you can help!
 
 Please take a moment to review this document in order to make the contribution
@@ -14,7 +14,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker]() is
+The [issue tracker](https://netbiis.atlassian.net/projects/INTEREP/issues) is
 the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
@@ -24,7 +24,12 @@ restrictions:
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
 
-* Please **do not** open issues or pull requests regarding 3th party codes.
+* Please **do not** open issues or pull requests regarding the code in
+  [`jQuery`](https://github.com/jquery/jquery/),
+  [`Modernizr`](https://github.com/Modernizr/Modernizr) or
+  [`Normalize.css`](https://github.com/necolas/normalize.css) (open them in
+  their respective repositories).
+
 
 <a name="bugs"></a>
 ## Bug reports
@@ -100,9 +105,9 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://<username>@bitbucket.org/ocura/spreasheet.git
+   git clone https://<username>@bitbucket.org/netbiis/interep-reports.git
    # Navigate to the newly cloned directory
-   cd spreasheet
+   cd interep-reports
    # Change the "master" repo to the "develop"
    git checkout develop
    ```
@@ -118,7 +123,7 @@ included in the project:
    contain your feature, change, or fix:
 
    ```bash
-   git checkout -b <feature|bug>/<issue-id>
+   git checkout -b <feature|buf>/<issue-id>
    ```
 
 4. Commit your changes in logical chunks. Please adhere to these [git commit

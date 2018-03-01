@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocura.Helper", "Ocura.Helper\Ocura.Helper.csproj", "{1200FF9B-197E-4812-B553-5167E1D12CAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netbiis.Helper", "Netbiis.Helper\Netbiis.Helper.csproj", "{04A87375-4A23-4D8C-A1D7-DFBF71B66864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1200FF9B-197E-4812-B553-5167E1D12CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1200FF9B-197E-4812-B553-5167E1D12CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1200FF9B-197E-4812-B553-5167E1D12CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1200FF9B-197E-4812-B553-5167E1D12CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A87375-4A23-4D8C-A1D7-DFBF71B66864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A87375-4A23-4D8C-A1D7-DFBF71B66864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A87375-4A23-4D8C-A1D7-DFBF71B66864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A87375-4A23-4D8C-A1D7-DFBF71B66864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

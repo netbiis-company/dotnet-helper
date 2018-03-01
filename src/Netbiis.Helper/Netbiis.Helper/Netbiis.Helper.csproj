@@ -8,15 +8,15 @@
     <FileVersion>0.1.1.0</FileVersion>
     <Copyright>Copyright 2017</Copyright>
     <Authors>Dalton Ocura</Authors>
-    <Company>Ocura</Company>
+    <Company>Netbiis</Company>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Description>Ocura Helper is a collections of utility classes and extension methods for dotnet. It includes code to help with tasks including functions and utilities to compare, convert, datetime, enum, linq, math, null and string.</Description>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/ocura/dotnet-helper/master/LICENSE.txt</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/ocura/dotnet-helper</PackageProjectUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/ocura/dotnet-helper/master/assets/generated/ocura-helper.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/ocura/dotnet-helper</RepositoryUrl>
+    <Description>Netbiis Helper is a collections of utility classes and extension methods for dotnet. It includes code to help with tasks including functions and utilities to compare, convert, datetime, enum, linq, math, null and string.</Description>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/netbiis/dotnet-helper/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/netbiis/dotnet-helper</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/netbiis/dotnet-helper/master/assets/icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/netbiis/dotnet-helper</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>Added more helpers</PackageReleaseNotes>
+    <PackageReleaseNotes></PackageReleaseNotes>
     <PackageTags>Helper Convert Compare Linq Math</PackageTags>
   </PropertyGroup>
 
